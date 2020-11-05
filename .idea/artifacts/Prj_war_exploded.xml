@@ -46,6 +46,7 @@
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/glassfish-1.2.0.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0-RC1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jsmartcom_zh_CN.jar" />
         </element>
       </element>
     </root>
